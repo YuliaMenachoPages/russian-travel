@@ -1,0 +1,34 @@
+.places__image {
+    min-width: 320px;
+    min-height: 320px;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) {
+.places__image {
+    min-width: 340px;
+    min-height: 340px;
+    max-width: 440px;
+    max-height: 440px;
+}
+}
+
+@media screen and (min-width: 1024px) {
+    .places__image {
+        min-width: 440px;
+        min-height: 440px;
+        width: 43vw;
+        max-width: 460px;
+        max-height: 460px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .places__image {
+        min-width: 460px;
+        min-height: 460px;
+        width: 43vw;
+      }
+}

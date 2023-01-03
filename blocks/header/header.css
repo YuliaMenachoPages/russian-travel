@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 16px calc(10px + 2%) 48px calc(10px + 2%);
+}
+
+@media screen and (min-width: 768px) {
+    .header {
+        margin: 28px calc(10% - 52px) 48px calc(10% - 52px);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .header {
+        margin: 28px 48px 48px 48px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .header {
+        margin: 28px 4% 56px 4%;
+    }
+}
+

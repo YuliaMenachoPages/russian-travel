@@ -1,0 +1,23 @@
+.cover {
+    box-sizing: border-box;
+    margin: 0 0 64px 0;
+    padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+   .cover {
+       margin: 0 0 88px 0;
+   }
+}
+
+@media screen and (min-width: 1024px) {
+    .cover {
+        margin: 0 0 92px 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cover {
+        margin: 0 4% 92px 4%;
+    }
+}

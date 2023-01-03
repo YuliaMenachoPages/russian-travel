@@ -1,0 +1,14 @@
+.cover__link {
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-image: url("../../../images/cover-trains.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-width: 320px;
+    min-height: 200px;
+    position: relative;
+}

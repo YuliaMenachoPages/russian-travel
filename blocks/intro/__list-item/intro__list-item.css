@@ -1,0 +1,21 @@
+.intro__list-item {
+    margin: 0 calc(10px + 2%);
+   }
+
+@media screen and (min-width: 768px) {
+    .intro__list-item {
+        margin: 0 calc(10% - 52px);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro__list-item {
+        margin: 0 calc(39% - 351.36px);
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro__list-item {
+        margin: 0 12%;
+    }
+}

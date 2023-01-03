@@ -1,0 +1,17 @@
+.intro {
+    margin: 0 0 64px 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) {
+   .intro {
+       margin: 0 0 88px 0;
+   }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro {
+        margin: 0 0 92px 0;
+    }
+}
