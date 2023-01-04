@@ -1,8 +1,8 @@
 .page {
     margin: 0 auto;
     font-family: 'Inter', Arial, sans-serif;
-    width: 100%;
     min-width: 320px;
+    max-width: 1280px;
     background-color: #2A2C2F;
     color: #FFFFFF;
     -moz-osx-font-smoothing: grayscale;

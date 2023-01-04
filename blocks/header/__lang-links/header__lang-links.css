@@ -1,5 +1,8 @@
 .header__lang-links {
     padding-top: 8px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 18px;
 }
 
 @media screen and (min-width: 768px) {

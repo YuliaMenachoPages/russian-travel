@@ -1,4 +1,4 @@
-.places__paragraph {
+.place__paragraph {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -8,16 +8,16 @@
 }
 
 @media screen and (min-width: 768px) {
-    .places__paragraph {
+    .place__paragraph {
         margin: 0 0 25px 0;
     }
-    .places__paragraph:last-of-type {
+    .place__paragraph:last-of-type {
         margin-bottom: 0;
     }
     }
 
 @media screen and (min-width: 1024px) {
-    .places__paragraph {
+    .place__paragraph {
         font-size: 18px;
     }
 

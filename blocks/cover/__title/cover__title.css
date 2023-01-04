@@ -5,19 +5,17 @@
     line-height: 1.09;
     text-align: center;
     color: #FFFFFF;
-    margin: 0 auto;
-    padding: calc((200/320*100% - 118px)/2) 0 5% 0;
-    box-sizing: border-box;
     position: relative;
     z-index: 1;
     width: 288px;
+    margin: 0 auto;
+
 }
 
 @media screen and (min-width: 768px) {
     .cover__title {
         font-size: 72px;
         line-height: 1.06;
-        padding: calc((480/768*100% - 250px)/2) 0 32px 0;
         width: 560px;
     }
 }

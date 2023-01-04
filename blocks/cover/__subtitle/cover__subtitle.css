@@ -6,7 +6,6 @@
     color: #FFFFFF;
     text-align: center;
     margin: 0 auto;
-    padding: 0 0 calc((200/320*100% - 118px)/2) 0;
     box-sizing: border-box;
     position: relative;
     z-index: 1;
@@ -17,7 +16,6 @@
     .cover__subtitle {
         font-size: 18px;
         line-height: 1.22;
-        padding: 0 0 calc((480/768*100% - 250px)/2);
         width: 360px;
     }
 }
