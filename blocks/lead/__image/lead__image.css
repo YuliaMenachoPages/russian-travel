@@ -9,7 +9,7 @@
 @media screen and (min-width: 1024px) {
     .lead__image {
         margin: 0 calc(39% - 351.36px) 8px calc(39% - 351.36px);
-        width: calc(100% - ((39% - 351.36px)*2));
+        width: calc(100% - ((39% - 351.36px) * 2));
     }
 }
 

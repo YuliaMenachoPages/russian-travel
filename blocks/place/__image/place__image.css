@@ -8,11 +8,11 @@
 }
 
 @media screen and (min-width: 768px) {
-.place__image {
-    min-width: 340px;
-    max-width: 440px;
-    margin: 0;
-}
+    .place__image {
+        min-width: 340px;
+        max-width: 440px;
+        margin: 0;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -26,5 +26,5 @@
 @media screen and (min-width: 1024px) {
     .place__image {
         min-width: 460px;
-      }
+    }
 }

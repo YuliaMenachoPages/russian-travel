@@ -1,6 +1,6 @@
 .intro__list-item {
     margin: 0 calc(10px + 2%);
-   }
+}
 
 @media screen and (min-width: 768px) {
     .intro__list-item {

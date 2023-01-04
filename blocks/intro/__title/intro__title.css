@@ -17,7 +17,7 @@
 
 @media screen and (min-width: 1024px) {
     .intro__title {
-      margin: 0 calc(39% - 351.36px) 40px calc(39% - 351.36px);
+        margin: 0 calc(39% - 351.36px) 40px calc(39% - 351.36px);
     }
 }
 
